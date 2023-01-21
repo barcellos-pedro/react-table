@@ -1,0 +1,46 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "name": "TypeError",
+      "message": "cannot read properties of undefined (reading 'length')",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "TypeError",
+      "message": "U is not a function",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "name": "TypeError",
+      "message": "can't define property F: obj is not extensible",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "name": "TypeError",
+      "message": "setting getter-only property R",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "name": "ReferenceError",
+      "message": "C is not defined",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "name": "SyntaxError",
+      "message": "missing name after operator",
+      "status": "done"
+    },
+    {
+      "id": 10,
+      "name": "FetchError",
+      "message": "missing url",
+      "status": "pending"
+    }
+  ]
+}
